@@ -1,13 +1,21 @@
-body{
-	background: white;
-}
 .personalinformation{
-	display: flex;
-	align-items: center;
-	justify-content: space-around;
-	flex-direction: row;
+    width: 95%;
+    margin: 0 auto;
+    text-align: center;
+
 }
+
+.personalinformation p{
+    text-align: center;
+    display: inline-block;
+    width: 190px;
+    margin: 0px;
+    vertical-align: middle;
+}
+
 .personalinformation img{
-	width: 10%;
-	height: 10%;
+    width: 40px;
+    height: 40px;
+    vertical-align: middle;
 }
+
